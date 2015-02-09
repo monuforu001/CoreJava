@@ -6,5 +6,5 @@ public class ChemistryStudent extends Student {
 		super(name, rollNo, marks);
 	}
 	
-	
+	  
 }
